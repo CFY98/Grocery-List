@@ -31,6 +31,8 @@ python groceries.py
 ## 📁 Project Structure
 📄 groceries.py — Main Python script
 
+📄 README.md    — This file
+
 📄 LICENSE      — MIT open source license
 
 ## 📌 Example Usage
