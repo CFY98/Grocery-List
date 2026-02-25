@@ -6,11 +6,10 @@ This is a beginner Python project that helps practice user input, list managemen
 ## 📌 About
 
 This script allows you to:
-
-📝 Add items to your grocery list
-❌ Remove items from the list
-🔀 Randomise the list order
-🧠 Manage a basic list of items that are intended for grocery shopping
+- 📝 Add items to your grocery list
+- ❌ Remove items from the list
+- 🔀 Randomise the list order
+- 🧠 Manage a basic list of items that are intended for grocery shopping
 
 It’s a minimal CLI (command-line) programme ideal for learning Python basics.
 
