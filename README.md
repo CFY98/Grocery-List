@@ -22,19 +22,17 @@ It’s a minimal CLI (command-line) programme ideal for learning Python basics.
 
 ## 🛠️ Getting Started
 1) Requirements
-🐍 Python 3
+- 🐍 Python 3
 
-2) Run the Program
-
-3) Clone the repository:
+2) Clone the repository:
 ```
 git clone https://github.com/CFY98/Grocery-List.git
 ```
-4) Navigate into the project folder:
+3) Navigate into the project folder:
 ```
 cd Grocery-List
 ```
-5) Run the script:
+4) Run the script:
 ```
 python groceries.py
 ```
