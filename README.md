@@ -14,7 +14,7 @@ It’s a minimal CLI (command-line) programme ideal for learning Python basics.
 
 ## 🛠️ Getting Started
 1) Requirements
-- 🐍 Python 3 (3.6+)
+🐍 Python (3.6+)
 
 2) Clone the repository:
 ```
