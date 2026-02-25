@@ -1,7 +1,6 @@
 # 🛒 Grocery-List
 
 A simple Python grocery list program that lets users add, remove, and randomise grocery items so long as they are edible.
-This is a beginner Python project that helps practice user input, list management, and program flow.
 
 ## 📌 About
 
