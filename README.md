@@ -41,8 +41,8 @@ cd Grocery-List
 python groceries.py
 ```
 ## 📁 Project Structure
-📄 groceries.py — Main Python script
-📄 LICENSE      — MIT open source license
+- 📄 groceries.py — Main Python script
+- 📄 LICENSE      — MIT open source license
 
 ## 📌 Example Usage
 
@@ -54,6 +54,6 @@ randomise          — Shuffle the list order
 view               — Display all current items
 exit               — Quit the program
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
