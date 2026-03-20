@@ -12,7 +12,7 @@ This script allows you to:
 🔀 Randomise the list order
 🧠 Manage a basic list of items that are intended for grocery shopping
 
-It’s a minimal CLI (command-line) program ideal for learning Python basics.
+It’s a minimal CLI (command-line) programme ideal for learning Python basics.
 
 ## 🧠 Project Goals
 
